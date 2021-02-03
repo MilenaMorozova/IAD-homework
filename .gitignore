@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data files 
+cc.ru.300.vec
+cc.uk.300.vec
